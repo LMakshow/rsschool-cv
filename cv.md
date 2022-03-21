@@ -1,4 +1,6 @@
-# Maksym Lytvyn ![My photo](/img/MaksymLytvyn_sm.jpg)
+# Maksym Lytvyn 
+
+![My photo](/img/MaksymLytvyn_sm.jpg)
 
 ## Trainee Front-end Developer
 
@@ -10,6 +12,8 @@
 * or **Maksym Lytvyn (@lmakshow)** on RS School Discord
 * Telegram: [@makshow](t.me/makshow)
 * FB/Instagram: **@imakshow**
+
+### About me
 
 > I'm a graphic and web designer with 3+ years of experience that wants to expand my knowledge to dive deep into web. To not just create a visual image of the future page, but actually implement it in the code. 
 > Unexpectedly, I fell in love with the profession of front-end developer and now I want to switch to it with all my heart!
